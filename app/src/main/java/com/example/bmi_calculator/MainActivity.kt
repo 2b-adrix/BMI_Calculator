@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.calculateBtn.setOnClickListener {
             calculateBMI()
+
         }
 
     }
