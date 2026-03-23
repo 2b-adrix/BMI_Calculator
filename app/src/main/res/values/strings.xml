@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">BMI_Calculator</string>
+    <string name="app_name">BMI Calculator Pro</string>
+    <string name="weight_label">Weight</string>
+    <string name="height_label">Height</string>
+    <string name="weight_hint_metric">kg</string>
+    <string name="height_hint_metric">cm</string>
+    <string name="weight_hint_imperial">lbs</string>
+    <string name="height_hint_imperial">inches</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="result_label">Your BMI Result</string>
+    <string name="invalid_input">Please enter valid numbers</string>
+    <string name="bmi_result_format">%1$.2f</string>
+
+    <string name="category_underweight">Underweight</string>
+    <string name="category_normal">Normal Weight</string>
+    <string name="category_overweight">Overweight</string>
+    <string name="category_obesity">Obesity</string>
+
+    <string name="unit_metric">Metric</string>
+    <string name="unit_imperial">Imperial</string>
 </resources>

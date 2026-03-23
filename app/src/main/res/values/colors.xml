@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="navy">#323b60</color>
+    <!-- Modern Indigo & Slate Palette -->
+    <color name="primary">#4F46E5</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#E0E7FF</color>
+    <color name="onPrimaryContainer">#312E81</color>
+
+    <color name="secondary">#10B981</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#DFE1F9</color>
+    <color name="onSecondaryContainer">#171B2C</color>
+
+    <color name="error">#BA1A1A</color>
+    <color name="onError">#FFFFFF</color>
+
+    <color name="background">#F8FAFC</color>
+    <color name="onBackground">#1E293B</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1E293B</color>
+    <color name="onSurfaceVariant">#64748B</color>
+
+    <color name="bmi_underweight">#F59E0B</color>
+    <color name="bmi_normal">#10B981</color>
+    <color name="bmi_overweight">#F97316</color>
+    <color name="bmi_obesity">#EF4444</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 </resources>
